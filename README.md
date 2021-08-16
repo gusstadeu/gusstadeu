@@ -1,6 +1,6 @@
 # Gustavo Tadeu
 
-##### Desenvolvedor de Software / Frontend
+##### Software developer / Frontend
 <br>
 <p> &#128521 Hey there!</p>
 
